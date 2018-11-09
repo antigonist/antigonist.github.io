@@ -132,5 +132,24 @@
             "gender": "male",
             "picture":"https://images.plurk.com/u16QwsZ8REyXBkadLaP3p.jpg"
     },
+    
+    {
+            "name" : "Max",
+            "age" :12,
+            "gender": "male",
+            "picture":"https://pbs.twimg.com/media/DoHvH8lU8AAiCLp.jpg"
+    },  {
+            "name" : "Maxine",
+            "age" :11,
+            "gender": "female",
+            "picture":"https://pbs.twimg.com/media/DlyS7QqVsAAy-CP.jpg"
+    },
+    {
+            "name" : "Lady Emma",
+            "age" :14,
+            "gender": "female",
+            "picture":"https://images.plurk.com/6bicXYB4dGUAVieRQ7Onkn.jpg"
+    }
+
 
     ]
