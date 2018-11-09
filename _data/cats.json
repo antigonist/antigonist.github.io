@@ -69,6 +69,68 @@
             "age" :7,
             "gender": "male",
             "picture":"https://images.plurk.com/3o4nW4YNPZCIGR9wjjEsLX.jpg"
-    }
+    },
+    
+    {
+            "name" : "Mia",
+            "age" :6,
+            "gender": "female",
+            "picture":"https://scontent-sea1-1.cdninstagram.com/vp/47d466e7f9c9034005f880ac77048714/5C805115/t51.2885-15/sh0.08/e35/s640x640/43985886_314058995846575_5190272683964859628_n.jpg"
+    },   {
+            "name" : "Anakin",
+            "age" :5,
+            "gender": "male",
+            "picture":"https://scontent-sea1-1.cdninstagram.com/vp/8c4c5971d354f85b798b4a7d44fbf016/5C84EBD8/t51.2885-15/sh0.08/e35/s640x640/40232897_249139769267950_4155743968300105728_n.jpg"
+    },
+     {
+            "name" : "Oliver",
+            "age" :5,
+            "gender": "male",
+            "picture":"https://scontent-sea1-1.cdninstagram.com/vp/f424b63701f6884d3ba059a25f1e222c/5C64C2CE/t51.2885-15/sh0.08/e35/s640x640/37644795_270845480169414_2103383550869897216_n.jpg"
+    },  {
+            "name" : "Portia",
+            "age" :10,
+            "gender": "female",
+            "picture":"https://i.imgur.com/hdkQMki.jpg"
+    },
+    
+    {
+            "name" : "Pippin",
+            "age" :11,
+            "gender": "female",
+            "picture":"https://images.plurk.com/4NkMz7Hy289hXxy1Gk4s11.jpg"
+    },
+    
+     {
+            "name" : "Merry",
+            "age" :11,
+            "gender": "female",
+            "picture":"https://images.plurk.com/185Do0wKRpS9LvSV2dJTrR.jpg"
+    },
+
+     {
+            "name" : "Cookie",
+            "age" :12,
+            "gender": "female",
+            "picture":"https://images.plurk.com/2fFWUiF30qFM328COAQ3p8.jpg"
+    },
+    
+         {
+            "name" : "Vodka and Beer",
+            "age" :8,
+            "gender": "male",
+            "picture":"https://images.plurk.com/5mAlJ7LfSW4ewT6SOmeXva.jpg"
+    },
+    {
+            "name" : "Freya",
+            "age" :8,
+            "gender": "female",
+            "picture":"https://i.imgur.com/54Qrt7O.jpg"
+    },    {
+            "name" : "Maximillium 'Max' Pegasus",
+            "age" :2,
+            "gender": "male",
+            "picture":"https://images.plurk.com/u16QwsZ8REyXBkadLaP3p.jpg"
+    },
 
     ]
