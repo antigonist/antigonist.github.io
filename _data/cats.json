@@ -1,0 +1,74 @@
+[ 
+    {
+            "name" : "Catherine",
+            "age" :8,
+            "gender": "female",
+            "picture":"https://images.plurk.com/5hYLlxkxcOHzEeWiDGsxkl.jpg"
+    },
+     {
+            "name" : "Voi",
+            "age" :9,
+            "gender": "female",
+            "picture":"https://images.plurk.com/7L8RzT9lOehxonQ4MhZZQJ.jpg"
+    },
+     {
+            "name" : "Crystal Spring of the Thunder Cliffs",
+            "age" :30,
+            "gender": "male",
+            "picture":"https://images.plurk.com/4q4KS5E5TXK3jDHY3mJlhQ.jpg"
+    },
+     {
+            "name" : "Jaime",
+            "age" :5,
+            "gender": "female",
+            "picture":"https://images.plurk.com/uoLWaJ5J1SJs4BEWwHSKS.jpg"
+    },
+    
+    {
+            "name" : "Skittles",
+            "age" :16,
+            "gender": "female",
+            "picture":"https://images.plurk.com/1ZC24PHvkw6eQOkldkHlNz.jpg"
+    },
+     {
+            "name" : "Agrias",
+            "age" :1,
+            "gender": "female",
+            "picture":"https://images.plurk.com/5xq94hq8eXyOXvHIogZ84M.jpg"
+    },
+     {
+            "name" : "Meliadoul",
+            "age" :1,
+            "gender": "female",
+            "picture":"https://images.plurk.com/4Q1z0laQorfrolQ48clNLa.jpg"
+    },
+     {
+            "name" : "Ganon",
+            "age" :14,
+            "gender": "male",
+            "picture":"https://images.plurk.com/4uvBhFIl9yUbEwgdhKMLOF.jpg"
+    },   
+    {
+            "name" : "Sadie",
+            "age" :9,
+            "gender": "female",
+            "picture":"https://images.plurk.com/6lmjDvV9ei6X8OxZfASmx4.jpg"
+    },
+      {
+            "name" : "Oliver",
+            "age" :6,
+            "gender": "male",
+            "picture":"https://images.plurk.com/50I3LI819xubajobv9ar56.jpg"
+    }, {
+            "name" : "Byakko, White Tiger of the West",
+            "age" :9,
+            "gender": "male",
+            "picture":"https://images.plurk.com/6eyAE7S81BE2LCtMxRmDBX.jpg"
+    }, {
+            "name" : "Thor McBadass, Asskikcker of the Heavens",
+            "age" :7,
+            "gender": "male",
+            "picture":"https://images.plurk.com/3o4nW4YNPZCIGR9wjjEsLX.jpg"
+    }
+
+    ]

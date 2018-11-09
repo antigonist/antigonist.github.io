@@ -1,0 +1,20 @@
+---
+layout: default
+title: Antigonist
+---
+<div class="blurb">
+	<h1>Cats of my Plurk Timeline</h1>
+	<p>These are the beautiful cats of my plurk timeline.</p>
+    
+                    <div class="grid">
+        {% for cat in site.data.cats %}
+                            <div style="background: #eee; margin-bottom: 1em;"><img src="{{cat.picture}}" style="max-width: 100%;" alt="{{cat.name}}">
+                        <div class="caption">
+                                <div class="caption-content">
+                                   {{cat.name}}</i>
+                                </div>
+                        </div></div>
+                  
+                {% endfor %}
+      </div>
+</div><!-- /.blurb -->
