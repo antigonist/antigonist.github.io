@@ -149,7 +149,78 @@
             "age" :14,
             "gender": "female",
             "picture":"https://images.plurk.com/6bicXYB4dGUAVieRQ7Onkn.jpg"
+    },   {
+            "name" : "Freddie",
+            "age" :9,
+            "gender": "male",
+            "picture":"https://images.plurk.com/6bicXYB4dGUAVieRQ7Onkn.jpg"
+    },
+    
+     {
+            "name" : "James",
+            "age" :2,
+            "gender": "male",
+            "picture":"https://images.plurk.com/3dnjelGCz32L8wC0Z0gWHv.jpg"
+    },
+        
+     {
+            "name" : "Sher Khan",
+            "age" :12,
+            "gender": "male",
+            "picture":"https://images.plurk.com/gq2iQqWyLcw7sF4VBcXV0.jpg"
+    },
+     {
+            "name" : "Circe",
+            "age" :.5,
+            "gender": "female",
+            "picture":"https://images.plurk.com/1NSx8YwV7oGDDQkXqntIqu.jpg"
+    },
+    
+  {
+            "name" : "Isis",
+            "age" :12,
+            "gender": "female",
+            "picture":"https://images.plurk.com/3ZPzdhhUnPaj1a2UxjVaJk.jpg"
+    },
+    
+      {
+            "name" : "Isadora",
+            "age" :11,
+            "gender": "female",
+            "picture":"https://images.plurk.com/5Z8ayhjRGq3niO8Ssgxxh3.jpg"
+    },
+    
+          {
+            "name" : "Lilith",
+            "age" :4,
+            "gender": "female",
+            "picture":"https://images.plurk.com/4nMNopanqXpeAijAYLwr3k.jpg"
+    },
+          {
+            "name" : "Desi",
+            "age" :9,
+            "gender": "female",
+            "picture":"https://images.plurk.com/6QJUeTDk2mwiHtx4ynyg4x.jpg"
+    },
+    
+              {
+            "name" : "Mogget",
+            "age" :14,
+            "gender": "male",
+            "picture":"https://images.plurk.com/1QpInwJsNvx4yyw0n28JTF.jpg"
+    },
+                {
+            "name" : "Piper",
+            "age" :17,
+            "gender": "male",
+            "picture":"https://images.plurk.com/2jhIDwKopACddyKQtPVz7l.jpg"
+    },
+    
+                    {
+            "name" : "Caddie",
+            "age" :20,
+            "gender": "male",
+            "picture":"https://images.plurk.com/svVKFsQiVEqhUspWPowYC.jpg"
     }
-
 
     ]
